@@ -6,7 +6,6 @@ alias 25only='~/.screenlayout/25-only.sh'
 alias 2534='~/.screenlayout/34-top-25-bot.sh'
 
 # Random Other Stuff
-alias histgrep='< ~/.bash_history grep'
 alias reload='source ~/.bashrc'
 alias lemmegetdat='sudo apt install -y'
 
